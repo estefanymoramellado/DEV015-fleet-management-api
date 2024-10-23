@@ -1,0 +1,9 @@
+
+venv/
+.env
+
+# Archivos de dependencias
+__pycache__/
+*.py[cod]
+
+pytest_cache/
